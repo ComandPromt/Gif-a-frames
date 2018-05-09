@@ -1,3 +1,3 @@
 # Requisitos
-CREATE A FOLDER CALLED "frames"
-Crear una carpeta llamada "frames"
+- CREATE A FOLDER CALLED "frames"
+- Crear una carpeta llamada "frames"
