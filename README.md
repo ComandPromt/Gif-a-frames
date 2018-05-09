@@ -1,2 +1,3 @@
-# Gif-a-frames
-GIF TO FRAMES
+# Requisitos
+CREATE A FOLDER CALLED "frames"
+Crear una carpeta llamada "frames"
