@@ -1,4 +1,7 @@
 <?php
+if(!file_exists("frames")){
+	mkdir("frames");
+}
 error_reporting(0);
     include_once ( str_replace('\\','/',dirname(__FILE__) ) ."/GIFDecoder.class.php" );
 
